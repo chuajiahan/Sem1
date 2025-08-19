@@ -1,4 +1,5 @@
 print('starting flask')
+print('Hey thats pretty lit!')
 
 from flask import Flask, render_template, request
 
